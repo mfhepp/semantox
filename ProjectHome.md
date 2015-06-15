@@ -1,0 +1,3 @@
+**Google** and **Yahoo** will show your individual product item pages with a better rendering and more information if you provide rich data snippets using the GoodRelations standard (http://purl.org/goodrelations/) in RDFa format. **Bing** has also announced plans to support GoodRelations in the near future. As a bonus, you make your shop much more visible in price comparison engines, recommender systems, and for novel mobile applications.
+
+Semantox adds GoodRelations in RDFa to your OXID eShop CE/PE (http://www.oxid-esales.com/) in just a few minutes. Similar modules exist for other shop software, see http://wiki.goodrelations-vocabulary.org/Shop_extensions.
